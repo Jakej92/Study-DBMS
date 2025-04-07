@@ -1,0 +1,11 @@
+dialog.default.folder=C\:\\gb_0900_jdy\\git\\oracle_aws_connect
+driver.selector.orderBy=score
+eclipse.preferences.version=1
+org.jkiss.dbeaver.core.confirm.drop_sql=false
+project.active=jdbc
+resultset.presentation.active=spreadsheet
+sample.database.canceled=true
+swt.client.browser=EDGE
+tipOfTheDayInitializer.notFirstRun=true
+ui.auto.update.check.time=1743061313664
+ui.show.tip.of.the.day.on.startup=true

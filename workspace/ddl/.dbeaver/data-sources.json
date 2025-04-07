@@ -1,0 +1,49 @@
+{
+	"folders": {},
+	"connections": {
+		"oracle_thin-194de0371c4-737c8357a812a17": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "localhost",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
+		}
+	},
+	"virtual-models": {
+		"oracle_thin-194de0371c4-737c8357a812a17": {
+			"SCOTT": {
+				":TBL_OWNER": {
+					"properties": {
+						"erd.diagram.state": {
+							"serialized": "\u003cdiagram version\u003d\"1\" name\u003d\"empty\" time\u003d\"202502111015\"\u003e\u003centities\u003e\u003cdata-source id\u003d\"oracle_thin-194de0371c4-737c8357a812a17\"\u003e\u003centity id\u003d\"1\" name\u003d\"TBL_OWNER\" fq-name\u003d\"SCOTT.TBL_OWNER\" order\u003d\"0\" color-bg\u003d\"128,64,32\" x\u003d\"202\" y\u003d\"20\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"2\" name\u003d\"TBL_REGISTRATION\" fq-name\u003d\"SCOTT.TBL_REGISTRATION\" order\u003d\"1\" x\u003d\"395\" y\u003d\"128\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"3\" name\u003d\"TBL_CAR\" fq-name\u003d\"SCOTT.TBL_CAR\" order\u003d\"2\" x\u003d\"20\" y\u003d\"87\"\u003e\u003cpath name\u003d\"SCOTT\"/\u003e\u003c/entity\u003e\u003c/data-source\u003e\u003c/entities\u003e\u003crelations\u003e\u003crelation name\u003d\"FK_REGISTRATION_OWNER\" fq-name\u003d\"SCOTT.TBL_REGISTRATION.FK_REGISTRATION_OWNER\" type\u003d\"fk\" pk-ref\u003d\"1\" fk-ref\u003d\"2\"/\u003e\u003crelation name\u003d\"FK_CAR_OWNER\" fq-name\u003d\"SCOTT.TBL_CAR.FK_CAR_OWNER\" type\u003d\"fk\" pk-ref\u003d\"1\" fk-ref\u003d\"3\"/\u003e\u003crelation name\u003d\"FK_OWNER_REGISTRATION\" fq-name\u003d\"SCOTT.TBL_OWNER.FK_OWNER_REGISTRATION\" type\u003d\"fk\" pk-ref\u003d\"2\" fk-ref\u003d\"1\"/\u003e\u003crelation name\u003d\"FK_CAR_REGISTRATION\" fq-name\u003d\"SCOTT.TBL_CAR.FK_CAR_REGISTRATION\" type\u003d\"fk\" pk-ref\u003d\"2\" fk-ref\u003d\"3\"/\u003e\u003crelation name\u003d\"FK_REGISTRATION_CAR\" fq-name\u003d\"SCOTT.TBL_REGISTRATION.FK_REGISTRATION_CAR\" type\u003d\"fk\" pk-ref\u003d\"3\" fk-ref\u003d\"2\"/\u003e\u003c/relations\u003e\u003c/diagram\u003e"
+						}
+					}
+				}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}

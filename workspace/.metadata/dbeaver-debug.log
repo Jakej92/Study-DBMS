@@ -1,0 +1,245 @@
+2025-03-27 16:41:15.462 - DBeaver 23.0.1.202303250535 is starting
+2025-03-27 16:41:15.463 - OS: Windows 11 10.0 (amd64)
+2025-03-27 16:41:15.463 - Java version: 11.0.18 by Eclipse Adoptium (64bit)
+2025-03-27 16:41:15.463 - Install path: 'C:\gb_0900_jdy\dbms\resource\dbeaver'
+2025-03-27 16:41:15.463 - Instance path: 'file:/C:/gb_0900_jdy/dbms/workspace/'
+2025-03-27 16:41:15.463 - Memory available 64Mb/1024Mb
+2025-03-27 16:41:15.476 - Create display
+2025-03-27 16:41:15.569 - Initializing DBeaver 23.0.1
+2025-03-27 16:41:15.570 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.0.1.202303250535
+2025-03-27 16:41:15.571 - Initialize desktop platform...
+2025-03-27 16:41:15.746 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.9.500.v20220817-1539]
+> Start Core Resource Management [org.eclipse.core.resources 3.18.100.v20221025-2047]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.102.202303250535]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.9.600.v20220902-2219]
+2025-03-27 16:41:16.106 - Initialize base platform...
+> Start Expression Language [org.eclipse.core.expressions 3.8.200.v20220613-1047]
+2025-03-27 16:41:16.149 - Platform initialized (578ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.102.202303250535]
+2025-03-27 16:41:16.159 - Starting RMI server at 43813
+2025-03-27 16:41:16.433 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.117.202303250535]
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.16.700.v20221024-2137]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.3.400.v20220915-1347]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.5.100.v20221024-2137]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.3.600.v20221024-2137]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.17.0.v20220817-1334]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.13.200.v20221024-2137]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.4.500.v20221028-0801]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.15.700.v20221024-2137]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.13.200.v20221024-2137]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.17.200.v20220613-1008]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.14.700.v20221102-0748]
+> Start Java Native Access [com.sun.jna 5.12.1.v20221103-2317]
+Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.eclipse.ui.internal.progress.messages
+2025-03-27 16:41:47.881 - Configure workbench window
+> Start 도움말 시스템 코어 [org.eclipse.help 3.9.100.v20210721-0601]
+2025-03-27 16:41:48.050 - Create actions
+2025-03-27 16:41:48.054 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-03-27 16:41:48.054 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-03-27 16:41:48.056 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-03-27 16:41:48.471 - Initialize workbench window
+2025-03-27 16:41:48.477 - Finish initialization
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.14.400.v20220730-1844]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.16.600.v20220809-1658]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.102.202303250535]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.92.202303250535]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.102.202303250535]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.7.100.v20220812-1406]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.1000.v20220801-1135]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.4.100.v20220812-1406]
+> Start Internet Connection Management [org.eclipse.core.net 1.4.0.v20220813-1037]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.139.202303250535]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.108.202303250535]
+2025-03-27 16:41:51.044 - Total database drivers: 102 (102)
+> Start Draw2d [org.eclipse.draw2dl 3.12.100.20230323081744]
+> Start GEF3 GEF (MVC) [org.eclipse.gef3 3.12.100.20230323081744]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.62.202303250535]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.62.202303250535]
+> Start 콘솔 [org.eclipse.ui.console 3.11.400.v20221012-0524]
+Warning: NLS unused message: InputStreamMonitor_label in: org.eclipse.debug.internal.core.DebugCoreMessages
+Warning: NLS unused message: OutputStreamMonitor_label in: org.eclipse.debug.internal.core.DebugCoreMessages
+> Start 디버그 핵심 [org.eclipse.debug.core 3.20.0.v20220811-0741]
+2025-03-27 16:41:51.616 - Connect with 'localhost' (oracle_thin-1951273e892-34e1fb3420bae859)
+> Start DBeaver Oracle Support [org.jkiss.dbeaver.ext.oracle 2.1.187.202303250535]
+2025-03-27 16:41:51.654 - Execution context opened (localhost; Main; 0)
+2025-03-27 16:41:52.147 - Execution context opened (localhost; Metadata; 1)
+2025-03-27 16:41:52.230 - Connected (oracle_thin-1951273e892-34e1fb3420bae859, Oracle JDBC driver [11.2.0.2.0])
+2025-03-27 16:41:52.233 - Execution context opened (localhost; SQLEditor <view.sql>; 2)
+2025-03-27 16:41:53.680 - Open [https://dbeaver.io/product/version.xml]
+> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.89.202303250535]
+2025-03-27 16:48:08.965 - Can't get column 'PLUGGED_IN': 부적합한 열 이름
+> Start Data Transfer UI [org.jkiss.dbeaver.data.transfer.ui 1.0.86.202303250535]
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.86.202303250535]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.80.202303250535]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.93.202303250535]
+> Start DBeaver Tasks - Native Tools [org.jkiss.dbeaver.tasks.native 1.0.80.202303250535]
+2025-03-27 16:50:47.827 - Error while exporting table footer
+java.lang.NullPointerException
+	at org.jkiss.dbeaver.tools.transfer.stream.exporter.StreamExporterAbstract.getWriter(StreamExporterAbstract.java:43)
+	at org.jkiss.dbeaver.tools.transfer.stream.exporter.DataExporterSQL.exportFooter(DataExporterSQL.java:393)
+	at org.jkiss.dbeaver.tools.transfer.stream.StreamTransferConsumer.exportFooterInFile(StreamTransferConsumer.java:258)
+	at org.jkiss.dbeaver.tools.transfer.stream.StreamTransferConsumer.finishTransfer(StreamTransferConsumer.java:603)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:124)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+2025-03-27 16:50:47.831 - Error transfering data from SCOTT.TBL_COURSE to TBL_COURSE_202503271650.sql
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error: Internal jdbc driver error
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.model.impl.jdbc.struct.JDBCTable.readData(JDBCTable.java:186)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.lambda$0(DatabaseTransferProducer.java:265)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:173)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:176)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:1)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:114)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: java.sql.SQLException: Internal jdbc driver error
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.handleExecuteError(JDBCStatementImpl.java:294)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:331)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.lambda$0(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.utils.SecurityManagerUtils.wrapDriverActions(SecurityManagerUtils.java:96)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 9 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.lang.reflect.Array.newArray(Native Method)
+	at java.base/java.lang.reflect.Array.newInstance(Unknown Source)
+	at oracle.jdbc.driver.BufferCache.get(BufferCache.java:226)
+	at oracle.jdbc.driver.PhysicalConnection.getCharBuffer(PhysicalConnection.java:7600)
+	at oracle.jdbc.driver.OracleStatement.prepareAccessors(OracleStatement.java:991)
+	at oracle.jdbc.driver.T4CTTIdcb.receiveCommon(T4CTTIdcb.java:273)
+	at oracle.jdbc.driver.T4CTTIdcb.receive(T4CTTIdcb.java:144)
+	at oracle.jdbc.driver.T4C8Oall.readDCB(T4C8Oall.java:806)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:355)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:329)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.lambda$0(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl$$Lambda$987/0x0000000100b19c40.call(Unknown Source)
+	at org.jkiss.dbeaver.utils.SecurityManagerUtils.wrapDriverActions(SecurityManagerUtils.java:96)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.model.impl.jdbc.struct.JDBCTable.readData(JDBCTable.java:186)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.lambda$0(DatabaseTransferProducer.java:265)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer$$Lambda$1195/0x0000000100cb4440.run(Unknown Source)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:173)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:176)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:1)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:114)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+2025-03-27 16:50:48.020 - Java heap space
+java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.lang.reflect.Array.newArray(Native Method)
+	at java.base/java.lang.reflect.Array.newInstance(Unknown Source)
+	at oracle.jdbc.driver.BufferCache.get(BufferCache.java:226)
+	at oracle.jdbc.driver.PhysicalConnection.getCharBuffer(PhysicalConnection.java:7600)
+	at oracle.jdbc.driver.OracleStatement.prepareAccessors(OracleStatement.java:991)
+	at oracle.jdbc.driver.T4CTTIdcb.receiveCommon(T4CTTIdcb.java:273)
+	at oracle.jdbc.driver.T4CTTIdcb.receive(T4CTTIdcb.java:144)
+	at oracle.jdbc.driver.T4C8Oall.readDCB(T4C8Oall.java:806)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:355)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:329)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.lambda$0(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl$$Lambda$987/0x0000000100b19c40.call(Unknown Source)
+	at org.jkiss.dbeaver.utils.SecurityManagerUtils.wrapDriverActions(SecurityManagerUtils.java:96)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.model.impl.jdbc.struct.JDBCTable.readData(JDBCTable.java:186)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.lambda$0(DatabaseTransferProducer.java:265)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer$$Lambda$1195/0x0000000100cb4440.run(Unknown Source)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:173)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:176)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:1)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:114)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+2025-03-27 16:51:16.410 - Error while exporting table footer
+java.lang.NullPointerException
+	at org.jkiss.dbeaver.tools.transfer.stream.exporter.StreamExporterAbstract.getWriter(StreamExporterAbstract.java:43)
+	at org.jkiss.dbeaver.tools.transfer.stream.exporter.DataExporterSQL.exportFooter(DataExporterSQL.java:393)
+	at org.jkiss.dbeaver.tools.transfer.stream.StreamTransferConsumer.exportFooterInFile(StreamTransferConsumer.java:258)
+	at org.jkiss.dbeaver.tools.transfer.stream.StreamTransferConsumer.finishTransfer(StreamTransferConsumer.java:603)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:124)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+2025-03-27 16:51:16.412 - Error transfering data from SCOTT.TBL_COURSE to TBL_COURSE_202503271651.sql
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [17401] [99999]: 프로토콜 위반
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.model.impl.jdbc.struct.JDBCTable.readData(JDBCTable.java:186)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.lambda$0(DatabaseTransferProducer.java:265)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:173)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:176)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:1)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:114)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: java.sql.SQLException: 프로토콜 위반
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:459)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:329)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.lambda$0(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.utils.SecurityManagerUtils.wrapDriverActions(SecurityManagerUtils.java:96)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 9 more
+2025-03-27 16:51:16.601 - 프로토콜 위반
+java.sql.SQLException: 프로토콜 위반
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:459)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:329)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.lambda$0(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.utils.SecurityManagerUtils.wrapDriverActions(SecurityManagerUtils.java:96)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	at org.jkiss.dbeaver.model.impl.jdbc.struct.JDBCTable.readData(JDBCTable.java:186)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.lambda$0(DatabaseTransferProducer.java:265)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:173)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:176)
+	at org.jkiss.dbeaver.tools.transfer.database.DatabaseTransferProducer.transferData(DatabaseTransferProducer.java:1)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.transferData(DataTransferJob.java:114)
+	at org.jkiss.dbeaver.tools.transfer.DataTransferJob.run(DataTransferJob.java:86)
+	at org.jkiss.dbeaver.runtime.RunnableContextDelegate.lambda$0(RunnableContextDelegate.java:39)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+2025-03-27 17:51:53.028 - System suspend detected! Reinitialize all remote connections.
+2025-03-27 19:07:09.596 - System suspend detected! Reinitialize all remote connections.
+2025-03-27 19:42:27.884 - Execution context closed (localhost, 2)
+2025-03-27 19:42:28.315 - DBeaver is stopping
+2025-03-27 19:42:28.318 - Stop RMI server
+2025-03-27 19:42:28.320 - RMI controller has been stopped
+2025-03-27 19:42:28.320 - DBeaver shutdown completed
